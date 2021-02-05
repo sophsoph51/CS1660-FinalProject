@@ -10,9 +10,6 @@
     * if this is not the case, in the code GuiFinalProject.java, this can be changed in the line 113 for Hugo, line 118 for Tolstoy, line 122 for shakespeare, and line 126 for AllFiles
       * you can change the names here accordingly to how they are named in your bucket at the end of the arg1 variable in the last string where these names are located
 
-* <u>Introduction:</u>
-
-  * Previously, my GUI app was running on docker, but due to an operating system issue that could not be resolved in the timeframe for the due date, I was unable to recreate this pattern in time for the project deadline. I understand there is not much leniency, however I ask that you take this into consideration for my grade as I have put an exceptional amount of time into this project.
 
 * <u>Video Link</u>
 
